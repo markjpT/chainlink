@@ -84,7 +84,7 @@
   },
   "dependencies": {
     "@eth-optimism/contracts": "0.5.37",
-    "@openzeppelin/contracts": "4.9.3",
-    "@openzeppelin/contracts-upgradeable": "4.9.3"
+    "@openzeppelin/contracts": "4.9.6",
+    "@openzeppelin/contracts-upgradeable": "4.9.6"
   }
 }
